@@ -7,3 +7,7 @@
 * `r` replaces with next char
 * `zL` scroll screen half right `zH` for half left
 * To select and edit multiple occurances, `v` + `gb` and do your magic
+* `<Ctrl-w> -` – decrease the height of the current split by one line.
+* `<Ctrl-w> +` – increase the height of the current split by one line.
+* `<Ctrl-w> >` – increase the width of the current split by one line.
+* `<Ctrl-w> <` – decrease the width of the current split by one line.

@@ -14,6 +14,7 @@
 * When searching using `f` or `t`, use `;` or `,` to get next instance. If you decide to change lines, you can still use the navigation symbols to find the next or previous occurances of that line
 * `cc` Clear line and stay online, tabs included
 * `yaw` Copy word under cursor
+* `shift+v` Select line
 ## Command structure
 _Command Count Motion_
 

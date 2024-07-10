@@ -17,4 +17,5 @@
 * `shift+v` Select line
 ## Command structure
 _Command Count Motion_
-
+You can chain that with the following:
+`d2f(` Delete up to the second paren

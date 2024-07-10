@@ -17,6 +17,8 @@
 * `shift+v` Select line
 * `ctrl+d` Go page down
 * `ctrl+u` Go page down
+* `?` for reverse search
+
 ## Command structure
 _Command Count Motion_
 You can chain that with the following:

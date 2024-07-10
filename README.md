@@ -15,6 +15,8 @@
 * `cc` Clear line and stay online, tabs included
 * `yaw` Copy word under cursor
 * `shift+v` Select line
+* `ctrl+d` Go page down
+* `ctrl+u` Go page down
 ## Command structure
 _Command Count Motion_
 You can chain that with the following:

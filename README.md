@@ -19,6 +19,7 @@
 * `ctrl+d` Go page down
 * `ctrl+u` Go page down
 * `?` for reverse search
+* `o` toggle between the begining and end of vim selection
 
 ## Command structure
 _Command Count Motion_
